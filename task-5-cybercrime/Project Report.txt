@@ -1,0 +1,4 @@
+Task 5 Write-up: Cybercrime Awareness
+While researching UPI and online payment fraud for my case study, what surprised me most was the psychological manipulation involved in modern scams. I previously thought most cybercrimes were purely technical, like hacking or distributing malware. However, schemes like the "Telegram task" scam rely heavily on social engineering—specifically, building false trust by actually paying the victim a small amount of real money initially before stealing a much larger sum later.
+
+As a direct result of researching this topic, one habit I will personally change is my approach to unsolicited messages. Going forward, I will immediately block and report any unknown numbers offering part-time jobs, investments, or easy money on messaging apps, rather than engaging with them out of curiosity.
